@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE files
+.idea/
+.vscode/
+
+# Python / Jupyter (if used later)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Microsoft Office temporary files
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.pptx
+
+# Temporary files
+*.tmp
+*.temp
